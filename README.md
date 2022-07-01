@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/8ots6omscr4x2n0m?svg=true)](https://ci.appveyor.com/project/Oleg-OMON/homeworks-object-460v1)
